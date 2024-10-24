@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "617237604266",
+    "project_id": "vinay-357cb",
+    "storage_bucket": "vinay-357cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617237604266:android:d4e2c197122c351d842dd3",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617237604266-s2erh0u9obi95ah53vi018g5vd4dbuit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapp",
+            "certificate_hash": "19767ed58b0d7a6f36468eef3cab9dc3f6941eac"
+          }
+        },
+        {
+          "client_id": "617237604266-298sadev2dmm86386a5lacpgo0q02rp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDMyF0tpBovYwESxfGNOk50L66XgCimk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617237604266-298sadev2dmm86386a5lacpgo0q02rp5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "617237604266-r6jklf706h92ltmlfrsu21i6ib2jmop0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
